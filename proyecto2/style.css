@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(238, 165, 101) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
